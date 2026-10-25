@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="550">
+  <rect x="0" y="0" width="600" height="550" fill="#DBD7BC" rx="10" />
+  <rect x="40" y="40" width="520" height="470" fill="#928E75" rx="6" />
+  <rect x="50" y="50" width="500" height="450" fill="#2C2C28" rx="2" />
+  <text x="60" y="85" text-anchor="left" font-size="40" fill="#4ABDBD" font-family="Courier New" font-weight="bold">Hello World!</text>
+  <text x="60" y="120" text-anchor="left" font-size="24" fill="#4ABDBD" font-family="Courier New" font-weight="bold">Welcome to Ryan's Profile!</text>
+  <text x="60" y="150" text-anchor="left" font-size="22" fill="#4ABDBD" font-family="Courier New" font-weight="bold">A little about me:</text>
+  <text x="360" y="480" text-anchor="left" font-size="18" fill="#4ABDBD" font-family="Courier New" font-weight="bold">Date: 2026-10-25</text>
+  <text x="60" y="180" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">I am an aspiring software engineer and</text>
+  <text x="60" y="200" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">data analyst that is passionate about</text>
+  <text x="60" y="220" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">all things tech and design. I am a </text>
+  <text x="60" y="240" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">retro tech enthusiast and I love coding</text>
+  <text x="60" y="260" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">new projects on my IBM model M. Lately I</text>
+  <text x="60" y="280" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">have been spending my time studying </text>
+  <text x="60" y="300" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">but I plan to get back to some passion</text>
+  <text x="60" y="320" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">projects shortly. I am currently on the</text>
+  <text x="60" y="340" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">lookout for some work opportunities in</text>
+  <text x="60" y="360" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">data analysis and software engineering.</text>
+  <text x="60" y="380" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">I am often starting new passion projects</text>
+  <text x="60" y="400" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">(and sometimes finishing them) so check </text>
+  <text x="60" y="420" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">out my other projects if you like retro </text>
+  <text x="60" y="440" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">vibes and whimsical improvements to your </text>
+  <text x="60" y="460" text-anchor="left" font-size="20" fill="#4ABDBD" font-family="Courier New">daily life! </text>
+</svg>
