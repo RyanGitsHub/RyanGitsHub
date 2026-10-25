@@ -1,21 +1,20 @@
-## Hi there 👋
-
-I'm looking to update my readme with an svg creater as seen here:
-
 <a href="">
-    <img alt="Ryan Scott's GitHub Profile README" src="https://raw.githubusercontent.com/RyanGitsHub/RyanGitsHub/main/80sScreen.svg">
+    <img alt="Ryan Scott's GitHub Profile README" src="images/80Screen.svg">
 </a>
-<!--
-**RyanGitsHub/RyanGitsHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Some projects that I'm proud of working on:
+- <a href="https://github.com/uoa-compsci399-s1-2026/capstone-project-s1-2026-team-4">Rx Checkmate, my capstone project </a>
+- BNZ AI dashboard
+- The Cassette Remote Project (WIP)
+
+
+### I would love to begin a project on:
+- AI based financial advice for the every day person
+- AI + Computer vision 
+- Large scale servers and databases
+
+
+### You can reach me on:
+- Discord: shawt.
